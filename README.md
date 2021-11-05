@@ -1,4 +1,4 @@
-### Olá, se achegue 🙋🏾‍♀️
+### Se achegue 🙋🏾‍♀️
 
 - 🌱 Estudando Desenvolvimento Web Java Fullstack.
 - 🔭 Em busca de recolocação no mercado de trabalho.
