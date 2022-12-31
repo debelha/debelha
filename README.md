@@ -1,16 +1,15 @@
-### Hi there 👋
+### 
 
-<!--
-**debelha/debelha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- PT-BR
+- 🔭 Estou trabalhando como Analista de Command Center
+- 🌱 Estou estudando Java e Inglês
+- 📫 Email: dleitedias@gmail.com
+- 😄 Pronome: ela/dela
+-
+-
+- EN-US
+- 🔭 I’m currently working as Command Center Analyst
+- 🌱 I’m currently learning Java and English
+- 📫 Email: dleitedias@gmail.com
+- 😄 Pronouns: her/she
 -->
