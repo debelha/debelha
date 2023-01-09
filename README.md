@@ -1,6 +1,7 @@
-### Olá mundo! 
+### Hello world! 🌏
 
-Tenho 24 anos e trabalho desde os 12, mesmo tendo começado cedo por necessidade busquei dar direção a minha carreira profissional e me encontrei em tecnologia. As portas foram abertas por uma ONG, através de um Bootcamp de desenvolvimento Full Stack onde tomei conhecimentos técnicos e pude aprimorar minhas Soft Skills voltadas para a área.
+👩🏾 Migrei da área da saúde para tecnologia em 2021 e desde então busco adquirir o máximo de conhecimento possível para ser uma boa profissional na área e também com o intuíto de voltar meu conhecimento para minha comunidade um dia
 
-Desde então busco construir e consolidar minha carreira como profissional de TI.
+🪪 Hoje atuo como Analista de Command Center no banco BTG Pactual
 
+🎓 Cursando Análise e Desenvolvimento de Sistemas, estudando ferramentas diversas e aprimorando meu inglês
