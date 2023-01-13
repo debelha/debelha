@@ -1,4 +1,4 @@
-### Hello world! 🌏
+### Hello world 🌏
 
 👩🏾 Migrei da área da saúde para tecnologia em 2021 e desde então busco adquirir o máximo de conhecimento possível para ser uma boa profissional na área 
 
@@ -6,7 +6,7 @@
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas, estudando ferramentas diversas e aprimorando meu inglês
 
-<a href="http://wa.me/5511958113598"><img src="https://i.imgur.com/dIPgLy8.png"></a>
+<a href="http://wa.me/5511958113598"><img height="28" width="70" src="https://i.imgur.com/dIPgLy8.png"></a>
 <a href="mailto:dleitedias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/deborah-leite/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 #### dleitedias@gmail.com
