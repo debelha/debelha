@@ -18,7 +18,7 @@
 <br>
 <div> 
 <h4>Para falar comigo clique na ferramenta que prefeir:</h4>
-<a href="http://wa.me/5511958113598"><img height="28" width="70" src="https://i.imgur.com/dIPgLy8.png"></a>
-<a href="mailto:dleitedias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="http://wa.me/5511958113598"><img height="28" width="70" src="https://i.imgur.com/7ApdnQT.png" title="source: imgur.com" /></a>
+<a href="mailto:dleitedias@gmail.com"><img height="28" width="70" src="https://i.imgur.com/alqa5TY.png" title="source: imgur.com" /></a>
 <a href="https://www.linkedin.com/in/deborah-leite/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
