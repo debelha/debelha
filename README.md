@@ -22,3 +22,5 @@
 <a href="mailto:dleitedias@gmail.com"><img height="41" width="40" src="https://i.imgur.com/3qwm36r.png" title="source: imgur.com" /></a>
 <a href="https://www.linkedin.com/in/deborah-leite"><img height="40" width="40" src="https://i.imgur.com/7iKseir.png" title="source: imgur.com" /></a>
 </div>
+
+![snake gif](https://github.com/debelha/debelha/blob/output/github-contribution-grid-snake.svg)
