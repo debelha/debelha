@@ -12,6 +12,7 @@
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
@@ -22,5 +23,3 @@
 <a href="mailto:dleitedias@gmail.com"><img height="41" width="40" src="https://i.imgur.com/3qwm36r.png" title="source: imgur.com" /></a>
 <a href="https://www.linkedin.com/in/deborah-leite"><img height="40" width="40" src="https://i.imgur.com/7iKseir.png" title="source: imgur.com" /></a>
 </div>
-
-![snake gif](https://github.com/debelha/debelha/blob/output/github-contribution-grid-snake.svg)
