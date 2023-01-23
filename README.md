@@ -17,7 +17,10 @@
 <a href="mailto:dleitedias@gmail.com"><img height="41" width="40" src="https://i.imgur.com/3qwm36r.png" title="source: imgur.com" /></a>
 <a href="https://www.linkedin.com/in/deborah-leite"><img height="40" width="40" src="https://i.imgur.com/7iKseir.png" title="source: imgur.com" /></a>
 </div>
+</div>
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=debelha&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=debelha&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=debelha&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
+
+
