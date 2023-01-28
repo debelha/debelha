@@ -20,7 +20,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="left">
   
 ![](https://github-readme-stats.vercel.app/api?username=debelha&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debelha&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
