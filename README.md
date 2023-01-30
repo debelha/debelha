@@ -22,7 +22,7 @@
 </div>
 
 <h4>Clicando no ícone abaixo você encontra meus certificados: </h4>
-<a href="[https://imgur.com/d4ulTJ4](https://drive.google.com/drive/folders/1iAa1LQucX6S6k7h9zf3b-zUA096GWX2S?usp=sharing)"><img height="41" width="60" src="https://i.imgur.com/d4ulTJ4.png" title="source: imgur.com" /></a>
+<a href="https://drive.google.com/drive/folders/1iAa1LQucX6S6k7h9zf3b-zUA096GWX2S?usp=sharing"><img height="41" width="60" src="https://i.imgur.com/d4ulTJ4.png" title="source: imgur.com" /></a>
 <br>
 <br>
 
