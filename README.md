@@ -4,7 +4,7 @@
 
 🪪 Hoje atuo como Analista de Command Center no banco BTG Pactual
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas, estudando ferramentas diversas e idiomas com foco em tech/acessibilidade
+🎓 Cursando Análise e Desenvolvimento de Sistemas, estudando ferramentas diversas e idiomas com foco em negócios e acessibilidade
 <br>
 <br>
 <br>
