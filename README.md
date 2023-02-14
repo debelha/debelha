@@ -9,7 +9,7 @@
 <br>
 <br>
 
-  <h3>Hard Skills:</h3>
+  <h3>Hard Skills</h3>
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 <br>
@@ -21,13 +21,13 @@
 
 </div>
 
-<h4>Clicando no ícone abaixo você encontra meus certificados: </h4>
+<h4>Clicando no ícone abaixo você encontra meus certificados</h4>
 <a href="https://drive.google.com/drive/folders/1iAa1LQucX6S6k7h9zf3b-zUA096GWX2S?usp=sharing"><img height="41" width="60" src="https://i.imgur.com/d4ulTJ4.png" title="source: imgur.com" /></a>
 <br>
 <br>
 
 <div align="center"> 
-<h3>Para falar comigo clique na ferramenta que prefeir:</h3>
+<h3>Para falar comigo clique na ferramenta que prefeir</h3>
 <a href="http://wa.me/5511958113598"><img height="40" width="40" src="https://i.imgur.com/98cykYG.png" title="source: imgur.com" /></a>
 <a href="mailto:dleitedias@gmail.com"><img height="41" width="40" src="https://i.imgur.com/3qwm36r.png" title="source: imgur.com" /></a>
 <a href="https://www.linkedin.com/in/deborah-leite"><img height="40" width="40" src="https://i.imgur.com/7iKseir.png" title="source: imgur.com" /></a>
