@@ -1,5 +1,7 @@
 ### <h1> HELLO WORLD 🌏 </h1>
-
+<br>
+<br>
+<br>
 👩🏾 Migrei da área da saúde para tecnologia em 2021 e desde então busco adquirir o máximo de conhecimento possível para ser uma boa profissional na área 
 
 🪪 Hoje atuo como Analista de Command Center no banco BTG Pactual
@@ -19,15 +21,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=debelha&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debelha&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 
-</div>
-
 <h4>Clicando no ícone abaixo você encontra meus certificados</h4>
 <a href="https://drive.google.com/drive/folders/1iAa1LQucX6S6k7h9zf3b-zUA096GWX2S?usp=sharing"><img height="41" width="60" src="https://i.imgur.com/d4ulTJ4.png" title="source: imgur.com" /></a>
+</div>
 <br>
 <br>
 
 <div align="center"> 
-<h3>Para falar comigo clique na ferramenta que prefeir</h3>
+<h3>Para falar comigo clique na ferramenta que prefeir:</h3>
 <a href="http://wa.me/5511958113598"><img height="40" width="40" src="https://i.imgur.com/98cykYG.png" title="source: imgur.com" /></a>
 <a href="mailto:dleitedias@gmail.com"><img height="41" width="40" src="https://i.imgur.com/3qwm36r.png" title="source: imgur.com" /></a>
 <a href="https://www.linkedin.com/in/deborah-leite"><img height="40" width="40" src="https://i.imgur.com/7iKseir.png" title="source: imgur.com" /></a>
