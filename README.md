@@ -2,7 +2,7 @@
 <br>
 <br>
 
-👩🏾 Migrei da área da saúde para tecnologia em 2021 e desde então busco adquirir o máximo de conhecimento possível para ser uma boa profissional na área 
+👩🏾 Migrei da área da saúde para tecnologia em 2021 através de um bootcamp de desenvolvimento Web e desde então busco adquirir o máximo de conhecimento possível para ser uma boa profissional na área 
 
 🪪 Hoje atuo como Analista de Command Center no banco BTG Pactual
 
