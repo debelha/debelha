@@ -4,9 +4,9 @@
 
 👩🏾 I migrated from health area to technology in 2021 through a Full Stack Web Development Bootcamp and since then I've been looking to acquire as much knowledge as possible to be a good professional in the area
 
-🪪 Hoje atuo como Analista de Command Center no banco BTG Pactual
+🪪 Today I work as a technology analyst at Tempest Security
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas, estudando ferramentas diversas e idiomas com foco em tecnologia e acessibilidade
+🎓Studying Systems Analysis and Development, various tech tools and languages with a focus on technology and accessibility
 <br>
 <br>
 
@@ -20,14 +20,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=debelha&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debelha&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 
-<h4>Clicando no ícone abaixo você encontra um repositório com meus certificados</h4>
+<h4>By clicking on the icon below you will find a repository with my certificates</h4>
 <a href="https://drive.google.com/drive/folders/1Zkp3gpiTmiuM5qTWXw6q_KiwqskJhUR4?usp=sharing"><img height="41" width="60" src="https://i.imgur.com/d4ulTJ4.png" title="source: imgur.com" /></a>
 </div>
 <br>
 <br>
 
 <div align="center"> 
-<h3>Para falar comigo clique na ferramenta que prefeir:</h3>
+<h3>To talk to me, click on the tool you prefer:</h3>
 <a href="http://wa.me/5511958113598"><img height="40" width="40" src="https://i.imgur.com/98cykYG.png" title="source: imgur.com" /></a>
 <a href="mailto:dleitedias@gmail.com"><img height="41" width="40" src="https://i.imgur.com/3qwm36r.png" title="source: imgur.com" /></a>
 <a href="https://www.linkedin.com/in/deborah-leite"><img height="40" width="40" src="https://i.imgur.com/7iKseir.png" title="source: imgur.com" /></a>
