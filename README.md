@@ -2,7 +2,7 @@
 <br>
 <br>
 
-👩🏾 Migrei da área da saúde para tecnologia em 2021 através de um Bootcamp de Desenvolvimento Web Full Stack e desde então busco adquirir o máximo de conhecimento possível para ser uma boa profissional na área 
+👩🏾 I migrated from health area to technology in 2021 through a Full Stack Web Development Bootcamp and since then I've been looking to acquire as much knowledge as possible to be a good professional in the area
 
 🪪 Hoje atuo como Analista de Command Center no banco BTG Pactual
 
