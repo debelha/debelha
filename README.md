@@ -2,9 +2,9 @@
 <br>
 <br>
 
-👩🏾 I migrated from health area to technology in 2021 through a Full Stack Web Development Bootcamp and since then I've been looking to acquire as much knowledge as possible to be a good professional in the area
+👩🏾 I'm brazilian, specifically from the ghetto, independent, hardworking and studious
 
-🪪 Today I work as a technology analyst at Tempest Security
+🪪 I migrated from health area to technology in 2021 through a Full Stack Web Development Bootcamp and since then I've been looking to acquire as much knowledge as possible to be a good professional in the area. Today I work as a technology analyst at Tempest Security
 
 🎓Studying Systems Analysis and Development, various tech tools and languages with a focus on technology and accessibility
 <br>
