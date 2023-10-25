@@ -2,11 +2,11 @@
 <br>
 <br>
 
-👩🏾 I'm brazilian, specifically from the ghetto, independent, hardworking and studious
+👩🏾 I'm Brazilian, specifically from the ghetto — independent, hardworking and studious
 
-🪪 I migrated from health area to technology in 2021 through a Full Stack Web Development Bootcamp and since then I've been looking to acquire as much knowledge as possible to be a good professional in the area
+🪪 In 2021, I migrated from the health area to technology through a Full Stack Web Development Bootcamp. Since then, I've been actively seeking to acquire as much knowledge as possible to excel as a professional in the field
 
-🎓Studying Systems Analysis and Development, various tech tools and languages focused on technology and accessibility
+🎓 Currently, I'm studying Systems Analysis and Development, delving into various tech tools and languages with a focus on technology and accessibility
 <br>
 <br>
 
