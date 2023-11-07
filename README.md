@@ -4,9 +4,9 @@
 
 👩🏾 I'm Brazilian, specifically from the ghetto — independent, hardworking and studious
 
-🪪 In 2021, I migrated from the health area to technology through a Full Stack Web Development Bootcamp. Since then, I've been actively seeking to acquire as much knowledge as possible to excel as a professional in the field
+🪪 In 2021, I migrated from the health area to technology through a full stack web development bootcamp. Since then, I've been actively seeking to acquire as much knowledge as possible to excel as a professional in the field
 
-🎓 Currently, I'm studying Systems Analysis and Development, delving into various tech tools and languages with a focus on technology and accessibility
+🎓 Currently, I'm studying systems analysis and development, delving into various tech tools and languages with a focus on technology and accessibility
 <br>
 <br>
 
@@ -24,10 +24,11 @@
 <br>
 
 <div align="center"> 
-<h3>To talk to me, click on the tool you prefer:</h3>
-<a href="http://wa.me/5511958113598"><img height="40" width="40" src="https://i.imgur.com/98cykYG.png" title="source: imgur.com" /></a>
-<a href="mailto:dleitedias@gmail.com"><img height="41" width="40" src="https://i.imgur.com/3qwm36r.png" title="source: imgur.com" /></a>
-<a href="https://www.linkedin.com/in/deborah-leite"><img height="40" width="40" src="https://i.imgur.com/7iKseir.png" title="source: imgur.com" /></a>
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/DDI+DDD+SEU_NUMERO_WHATSAPP)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/SEUUSERNAME/)
+
 </div>
 </div>
 <br>
