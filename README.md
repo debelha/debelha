@@ -2,11 +2,11 @@
 <br>
 <br>
 
-👩🏾 I'm Brazilian, specifically from the ghetto
+I am 25 years old and have been working since I was 12. Even though I started early out of necessity, I sought to give direction to my professional career, and after various experiences, I found my path in technology.
 
-🪪 In 2021, I migrated from the health area to technology through a full stack web development bootcamp. Since then, I've been actively seeking to acquire as much knowledge as possible to excel as a professional in the field
+Doors were opened for me by a non-governmental organization (NGO) through a full-stack programming bootcamp, where I gained technical and behavioral knowledge that guided my development in the field.
 
-🎓 Currently, I'm studying systems analysis and development, delving into various tech tools and languages with a focus on technology and accessibility
+Since then, my goal has been to build and consolidate my career as an IT professional.
 <br>
 <br>
 
