@@ -4,7 +4,7 @@
 
 I am 25 years old and have been working since I was 12. Even though I started early out of necessity, I sought to give direction to my professional career, and after various experiences, I found my path in technology.
 
-Doors were opened for me by a non-governmental organization (NGO) through a full-stack programming bootcamp, where I gained technical and behavioral knowledge that guided my development in the field.
+Doors were opened for me by a NGO through a full-stack programming bootcamp, where I gained technical and behavioral knowledge that guided my development in the field.
 
 Since then, my goal has been to build and consolidate my career as an IT professional.
 <br>
